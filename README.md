@@ -1,5 +1,6 @@
 ### Hello there!
 
+<img src="https://github.com/xairen/ProfileCard/blob/master/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Xairen's Stats">
 
 ## 💻 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-blue)
