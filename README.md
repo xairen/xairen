@@ -1,6 +1,6 @@
 ### Hello There! 
 
-Welcome to my github profile! Here's an overview of my reporitories/projects I am working on.
+Welcome to my github profile!
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/xairen?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
