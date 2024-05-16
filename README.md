@@ -2,6 +2,8 @@
 
 Welcome to my github profile! Here's an overview of my reporitories/projects I am working on.
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/xairen?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
 ## Current Projects
 - **AI-based Project to Summarize Earnings Reports:** Summarizes earnings reports of any given company and provides a verdict on whether to invest.
 - **AI-based Lyrics Generator:** Generates song lyrics using AI.
@@ -34,8 +36,6 @@ Outside of work, I have a diverse range of interests:
 - **Finance**
 - **Bouldering**
 - **Anime**
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/xairen?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <!--
 **xairen/xairen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
