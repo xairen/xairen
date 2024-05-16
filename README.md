@@ -4,7 +4,7 @@ Welcome to my github profile!
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/xairen?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
-## Current Projects
+## Projects
 - **AI-based Project to Summarize Earnings Reports:** Summarizes earnings reports of any given company and provides a verdict on whether to invest.
 - **AI-based Lyrics Generator:** Generates song lyrics using AI.
 - **Custom IoT-based Software Application:** Developing software for custom IoT applications.
